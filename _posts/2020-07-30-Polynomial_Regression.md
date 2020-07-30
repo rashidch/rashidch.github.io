@@ -43,7 +43,7 @@ x,y=generate_data(0,50,100)
 ```
 
 
-![](images/Polynomial_regression_files/output_2_0.png)
+![](/images/Polynomial_regression_files/output_2_0.png)
 
 
 
@@ -290,7 +290,7 @@ plot_predictedPolyLine(theta,x,y)
 ```
 
 
-![](images/Polynomial_regression_files/output_11_0.png)
+![](/images/Polynomial_regression_files/output_11_0.png)
 
 
 ```python
@@ -330,5 +330,5 @@ plot_predictedPolyLine(theta,x,y)
 ```
 
 
-![](images/Polynomial_regression_files/output_13_0.png)
+![](/images/Polynomial_regression_files/output_13_0.png)
 
