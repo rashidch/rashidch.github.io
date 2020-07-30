@@ -9,9 +9,11 @@
  * For LSE:
    1. We will use LU decomposition to find the inverse of (AT.A+LI).(A is the design matrix).
    2. Print out the equation of the best fitting line and the error.
+   3. Visulize curve fitting.
  * For Newton's method:
    1. We will use newtons method
    2. Print out the equation of the best fitting line and the error, and compare to LSE.
+   3. Visulize curve fitting. 
 
 
 ```python
