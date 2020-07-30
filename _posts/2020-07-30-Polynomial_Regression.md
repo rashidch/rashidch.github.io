@@ -1,8 +1,17 @@
 # Implementing polynomial linear regression using Numpy
 ## Outline 
-* 
-* We will use Least Square Errors and Newton's method optimization to optimize the loss  
-
+* Generate data points 
+* Input Paramters 
+  * The number of polynomial bases n
+  * Lambda value (only for LSE case)
+ 
+* We will be using Least Square Errors and Newton's method optimization to optimize the loss
+    a. For LSE:
+            1. We will use LU decomposition to find the inverse of (AT.A+LI).(A is the design matrix).
+            2. Print out the equation of the best fitting line and the error.
+    b. For Newton's method:
+       1. We will use newtons method
+       2. Print out the equation of the best fitting line and the error, and compare to LSE.
 
 
 ```python
