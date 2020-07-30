@@ -1,5 +1,6 @@
-# Implemeting Regularized Polynomial Linear Regression from Scratch using Numpy
+# Implementing polynomial linear regression using Numpy
 ## Outline 
+* 
 * We will use Least Square Errors and Newton's method optimization to optimize the loss  
 
 
