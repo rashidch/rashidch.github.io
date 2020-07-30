@@ -1,4 +1,4 @@
-# Title
+# Polynomial Regression using Least Squre Error and Newton Method Optimization 
 
 
 
